@@ -1,0 +1,23 @@
+{
+  "name": "readme_generator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sinka27/Readme_Generator.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sinka27/Readme_Generator/issues"
+  },
+  "homepage": "https://github.com/sinka27/Readme_Generator#readme",
+  "dependencies": {
+    "inquirer": "^8.2.0"
+  }
+}
