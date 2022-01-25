@@ -44,7 +44,7 @@
   
 
   ## Links:
-  * Github: 
+  * Github: https://github.com/sinka27/Readme_Generator
 
 
   ## Sample Video:
