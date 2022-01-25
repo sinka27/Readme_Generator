@@ -35,7 +35,7 @@ const questions = [
       },
       // Installation Instruction
     {
-        type: 'input',
+        type: 'editor',
         name: 'installation',
         message: 'How do you install this project? (Required)',
         validate: installationInput => {
@@ -49,7 +49,7 @@ const questions = [
     },
     // Usage Information
     {
-        type: 'input',
+        type: 'editor',
         name: 'usage',
         message: 'How to use this project? (Required)',
         validate: usageInput => {
@@ -63,7 +63,7 @@ const questions = [
     },
     // Contribution Guidlines
     {
-        type: 'input',
+        type: 'editor',
         name: 'contribution',
         message: 'How should people contribute to this project? (Required)',
         validate: contributionInput => {
@@ -77,7 +77,7 @@ const questions = [
     },
      // Test Instructions 
      {
-        type: 'input',
+        type: 'editort',
         name: 'testing',
         message: 'How do you test this project? (Required)',
         validate: testingInput => {
