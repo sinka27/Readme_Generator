@@ -94,7 +94,7 @@ const questions = [
         type: 'checkbox',
         name: 'licensing',
         message: 'Choose a license for your project (Required)',
-        choices: ['Apache', 'MIT', 'Mozilla-Public', 'GNU-General-Public', 'Common-Development-and Distribution', 'None'],
+        choices: ['Apache', 'MIT', 'BSD 3-Clause License', 'BSD 2-Clause License', 'GNU GPL v3', 'GNU LGPL v3', 'Mozilla Public License 2.0', 'None'],
         validate: licensingInput => {
             if (licensingInput) {
                 return true;
