@@ -49,4 +49,4 @@
 
   ## Sample Video:
   The following video demonstrates the application's functionality:
-  ![](./SampleVideo/ReadmeGenerator.gif)
+  https://drive.google.com/file/d/1TQgBsz3Chlp0yfMJNOAVjliF_nl9qnyi/view?usp=sharing
